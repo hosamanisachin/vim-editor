@@ -1,3 +1,6 @@
+Vim Editor configuration file
+vim ~/.vimrc
+
  set tabstop=4
  set number
  set autoindent
